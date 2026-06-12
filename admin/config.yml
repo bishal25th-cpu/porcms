@@ -9,7 +9,7 @@ media_folder: "public/images/gallery"
 public_folder: "/images/gallery"
 
 # The admin panel URL will be: https://porcms.bishal25th.workers.dev/admin
-site_url: https://porcms.bishal25th.workers.dev
+site_url: https://Ov23lixFMhpat786mnc3.workers.dev
 
 collections:
 
