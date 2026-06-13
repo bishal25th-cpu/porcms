@@ -1,6 +1,6 @@
 # Cloudflare Pages — Static site configuration
 # No build command needed. Just serve files directly.
-name = "dharanidhar"
+name = "porcms"
 compatibility_date = "2026-06-12"
 
 [assets]
